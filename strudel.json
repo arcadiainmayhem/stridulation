@@ -1,4 +1,6 @@
 {
+"_base": "https://raw.githubusercontent.com/arcadiainmayhem/stridulation/main/",
+  
   "breaks" : [
 "breaks/Adrift_Break.wav",
 "breaks/Alzir_Break.wav",
